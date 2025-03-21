@@ -1,7 +1,7 @@
 ## Hi there 👋
 I am a Technical Services Engineer at Epic. At Epic I have authored a handful of back-end development logs in MUMPS and hope to one day be compentent in full-stack web development.
 
-- 🔭 I’m currently working on a simple application for tracking cards 
+- 🔭 I’m currently working on a simple application for tracking poker stats
 - ⚡ Fun fact: My biggest hobby is playing guitar!
 <!--
 **daznax/daznax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
