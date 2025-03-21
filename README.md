@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am a Technical Service Engineer at Epic. At Epic I have authored a handful of back-end development logs in MUMPS and hope to one day be compentent in full-stack web development.
+I am a Technical Services Engineer at Epic. At Epic I have authored a handful of back-end development logs in MUMPS and hope to one day be compentent in full-stack web development.
 
 - 🔭 I’m currently working on a simple application for tracking cards 
 - ⚡ Fun fact: My biggest hobby is playing guitar!
